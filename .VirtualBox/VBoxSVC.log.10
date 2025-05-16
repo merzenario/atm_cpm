@@ -1,0 +1,139 @@
+33:36:13.321496 MainPower Log continuation - Log started 2025-03-31T18:54:01.257912500Z
+33:36:13.810613 USBPROXY usbLibGetDevices: Starting USB device enumeration
+33:36:13.810955 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+33:36:14.110488 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+33:36:14.918202 dns-monitor HostDnsMonitor: updating information
+33:36:14.918563 dns-monitor HostDnsMonitor: old information
+33:36:14.918613 dns-monitor   server 1: 192.168.10.1
+33:36:14.918635 dns-monitor   domain: arame.local
+33:36:14.918653 dns-monitor   no search string entries
+33:36:14.918671 dns-monitor HostDnsMonitor: new information
+33:36:14.923274 dns-monitor   no server entries
+33:36:14.923305 dns-monitor   no domain set
+33:36:14.923313 dns-monitor   no search string entries
+33:36:15.384114          Saving settings file "C:\Users\Esteb\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+33:36:15.396268          Finished saving settings file "C:\Users\Esteb\.VirtualBox\VirtualBox.xml"
+33:36:15.396982          Saving settings file "C:\Users\Esteb\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+33:36:15.402715          Finished saving settings file "C:\Users\Esteb\.VirtualBox\VirtualBox.xml"
+33:36:15.403345          Saving settings file "C:\Users\Esteb\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+33:36:15.408007          Finished saving settings file "C:\Users\Esteb\.VirtualBox\VirtualBox.xml"
+33:36:19.356974 dns-monitor HostDnsMonitor: updating information
+33:36:19.357012 dns-monitor HostDnsMonitor: old information
+33:36:19.357023 dns-monitor   no server entries
+33:36:19.357033 dns-monitor   no domain set
+33:36:19.357042 dns-monitor   no search string entries
+33:36:19.357051 dns-monitor HostDnsMonitor: new information
+33:36:19.357060 dns-monitor   server 1: 200.21.200.10
+33:36:19.357069 dns-monitor   server 2: 200.21.200.80
+33:36:19.357082 dns-monitor   no domain set
+33:36:19.357098 dns-monitor   no search string entries
+33:36:21.392979 dns-monitor HostDnsMonitor: updating information
+33:36:21.393006 dns-monitor HostDnsMonitor: unchanged
+33:36:38.824529 dns-monitor HostDnsMonitor: updating information
+33:36:38.824574 dns-monitor HostDnsMonitor: unchanged
+33:36:52.056129 USBPROXY usbLibGetDevices: Starting USB device enumeration
+33:36:52.057343 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+33:36:52.065436 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+33:36:52.074201 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+33:36:52.074293 USBPROXY USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb85d)
+33:36:55.143162 USBPROXY usbLibGetDevices: Starting USB device enumeration
+33:36:55.143705 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+33:36:55.152811 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+33:36:55.161217 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+33:37:04.383565 USBPROXY usbLibGetDevices: Starting USB device enumeration
+33:37:04.384000 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+33:37:04.392645 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+33:37:04.401283 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+33:37:09.104700 dns-monitor HostDnsMonitor: updating information
+33:37:09.104742 dns-monitor HostDnsMonitor: unchanged
+33:38:53.596257 USBPROXY usbLibGetDevices: Starting USB device enumeration
+33:38:53.596691 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+33:38:53.605122 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+33:38:53.613779 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+34:12:42.418228 dns-monitor HostDnsMonitor: updating information
+34:12:42.418332 dns-monitor HostDnsMonitor: unchanged
+34:14:35.119638 USBPROXY usbLibGetDevices: Starting USB device enumeration
+34:14:35.119930 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+34:14:35.128135 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+34:14:35.136964 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+34:14:52.002468 dns-monitor HostDnsMonitor: updating information
+34:14:52.002532 dns-monitor HostDnsMonitor: unchanged
+34:58:19.523547 dns-monitor HostDnsMonitor: updating information
+34:58:19.523624 dns-monitor HostDnsMonitor: unchanged
+41:10:54.811014 dns-monitor HostDnsMonitor: updating information
+41:10:54.811714 dns-monitor HostDnsMonitor: unchanged
+41:10:57.699510 USBPROXY usbLibGetDevices: Starting USB device enumeration
+41:10:57.730755 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+42:09:23.448017 dns-monitor HostDnsMonitor: updating information
+42:09:23.448125 dns-monitor HostDnsMonitor: old information
+42:09:23.448137 dns-monitor   server 1: 200.21.200.10
+42:09:23.448145 dns-monitor   server 2: 200.21.200.80
+42:09:23.448151 dns-monitor   no domain set
+42:09:23.448157 dns-monitor   no search string entries
+42:09:23.448163 dns-monitor HostDnsMonitor: new information
+42:09:23.448168 dns-monitor   no server entries
+42:09:23.448174 dns-monitor   no domain set
+42:09:23.448180 dns-monitor   no search string entries
+42:10:41.291784 dns-monitor HostDnsMonitor: updating information
+42:10:41.291840 dns-monitor HostDnsMonitor: old information
+42:10:41.291848 dns-monitor   no server entries
+42:10:41.291854 dns-monitor   no domain set
+42:10:41.291859 dns-monitor   no search string entries
+42:10:41.291864 dns-monitor HostDnsMonitor: new information
+42:10:41.291869 dns-monitor   server 1: 172.20.10.1
+42:10:41.291874 dns-monitor   no domain set
+42:10:41.291879 dns-monitor   no search string entries
+42:11:55.336684 dns-monitor HostDnsMonitor: updating information
+42:11:55.336740 dns-monitor HostDnsMonitor: unchanged
+42:40:52.019345 dns-monitor HostDnsMonitor: updating information
+42:40:52.019498 dns-monitor HostDnsMonitor: unchanged
+42:52:37.131848 USBPROXY usbLibGetDevices: Starting USB device enumeration
+42:52:37.132226 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+42:52:37.132390 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+42:52:37.139523 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+42:52:37.139788 USBPROXY USB: Unknown USB device detected (idVendor: 0x05c8, idProduct: 0x0b08)
+42:52:37.139869 USBPROXY USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb85d)
+43:01:43.952240 USBPROXY usbLibGetDevices: Starting USB device enumeration
+43:01:43.952710 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+43:01:43.952855 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+43:01:43.960363 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+43:10:56.164099 dns-monitor HostDnsMonitor: updating information
+43:10:56.164223 dns-monitor HostDnsMonitor: unchanged
+43:10:59.724219 dns-monitor HostDnsMonitor: updating information
+43:10:59.724244 dns-monitor HostDnsMonitor: unchanged
+43:11:55.341297 dns-monitor HostDnsMonitor: updating information
+43:11:55.341450 dns-monitor HostDnsMonitor: unchanged
+43:13:17.152857 USBPROXY usbLibGetDevices: Starting USB device enumeration
+43:13:17.153239 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+43:13:17.153373 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&241fdeb1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+43:13:17.153728 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+43:46:25.044241 dns-monitor HostDnsMonitor: updating information
+43:46:25.044275 dns-monitor HostDnsMonitor: unchanged
+44:12:51.234253 dns-monitor HostDnsMonitor: updating information
+44:12:51.234879 dns-monitor HostDnsMonitor: old information
+44:12:51.234894 dns-monitor   server 1: 172.20.10.1
+44:12:51.234902 dns-monitor   no domain set
+44:12:51.234908 dns-monitor   no search string entries
+44:12:51.234914 dns-monitor HostDnsMonitor: new information
+44:12:51.234920 dns-monitor   no server entries
+44:12:51.234926 dns-monitor   no domain set
+44:12:51.234931 dns-monitor   no search string entries
+44:13:08.961232 dns-monitor HostDnsMonitor: updating information
+44:13:08.961270 dns-monitor HostDnsMonitor: old information
+44:13:08.961277 dns-monitor   no server entries
+44:13:08.961282 dns-monitor   no domain set
+44:13:08.961287 dns-monitor   no search string entries
+44:13:08.961292 dns-monitor HostDnsMonitor: new information
+44:13:08.961297 dns-monitor   server 1: 172.20.10.1
+44:13:08.961303 dns-monitor   no domain set
+44:13:08.961308 dns-monitor   no search string entries
+44:42:14.722776 dns-monitor HostDnsMonitor: updating information
+44:42:14.722864 dns-monitor HostDnsMonitor: unchanged
+44:43:10.295364 dns-monitor HostDnsMonitor: updating information
+44:43:10.295436 dns-monitor HostDnsMonitor: unchanged
+44:43:19.058974 dns-monitor HostDnsMonitor: updating information
+44:43:19.059003 dns-monitor HostDnsMonitor: unchanged
+45:13:29.497897 dns-monitor HostDnsMonitor: updating information
+45:13:29.498046 dns-monitor HostDnsMonitor: unchanged
+50:07:03.217898 dns-monitor HostDnsMonitor: updating information
+50:07:03.219459 dns-monitor Log rotated - Log started 2025-03-31T18:54:01.257912500Z

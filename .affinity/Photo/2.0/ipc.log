@@ -1,0 +1,8 @@
+[2025-04-24T03:16:30.960-0500] Initialising IPC for Affinity Photo 2.6.2.3228
+[2025-04-24T03:16:30.997-0500] [Client] Starting IPC connection management
+[2025-04-24T03:16:30.999-0500] [Client] Attempting to start local server...
+[2025-04-24T03:16:31.008-0500] [Server] Started
+[2025-04-24T03:16:31.019-0500] [Client] Local server has started; attempting to connect to it...
+[2025-04-24T03:16:31.026-0500] [Server] Got new client 2 ("Affinity Photo 2.6.2.3228")
+[2025-04-24T03:16:31.027-0500] [Client] Connected to server
+[2025-04-24T03:16:48.487-0500] [Client] Stopping IPC connection management

@@ -1,0 +1,105 @@
+{
+    "categories":
+    [
+        {
+            "name": "Using Affinity for the first time",
+            "previewUrl": "samples",
+            "previewColour": "#888888",
+            "items":
+            [
+                {
+                    "name": "Items",
+                    "items":
+                    [
+                        {
+                            "name": "Elena Paraskeva photo basics.",
+                            "description": "",
+                            "size": "60.3 MB",
+                            "contentUrl": "https://beta-downloads.serif.com/download/samples/lessons/Rain.afphoto",
+                            "previewUrl": "https://beta-downloads.serif.com/download/samples/lessons/Rain_ios.jpeg",
+                            "previewColour": "#988787"
+                        },
+                        {
+                            "name": "Frankentoon photo basics.",
+                            "description": "",
+                            "size": "92.7 MB",
+                            "contentUrl": "https://beta-downloads.serif.com/download/samples/lessons/SparkDrink.afphoto",
+                            "previewUrl": "https://beta-downloads.serif.com/download/samples/lessons/SparkDrink_ios.jpeg",
+                            "previewColour": "#A4919B"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Check out what's possible by exploring featured artwork",
+            "previewUrl": "samples",
+            "previewColour": "#888888",
+            "items":
+            [
+                {
+                    "name": "Items",
+                    "items":
+                    [
+                        {
+                            "name": "Bird",
+                            "description": "Laura Rubin",
+                            "size": "31.1 MB",
+                            "contentUrl": "https://beta-downloads.serif.com/download/samples/Bird.afphoto",
+                            "previewUrl": "https://beta-downloads.serif.com/download/samples/Bird.jpg",
+                            "previewColour": "#988787"
+                        },
+                        {
+                            "name": "Dinos & Donuts",
+                            "description": "Felix Hernandez",
+                            "size": "190.6 MB",
+                            "contentUrl": "https://beta-downloads.serif.com/download/samples/DinosDonuts.afphoto",
+                            "previewUrl": "https://beta-downloads.serif.com/download/samples/DinosDonuts.jpg",
+                            "previewColour": "#A4919B"
+                        },
+                        {
+                            "name": "Firefly Club",
+                            "description": "Jean-Charles Debroize",
+                            "size": "79.8 MB",
+                            "contentUrl": "https://beta-downloads.serif.com/download/samples/FireflyClub.afphoto",
+                            "previewUrl": "https://beta-downloads.serif.com/download/samples/FireflyClub.jpg",
+                            "previewColour": "#2F3729"
+                        },
+                        {
+                            "name": "Fireworks",
+                            "description": "Timothy Poulton",
+                            "size": "76.9 MB",
+                            "contentUrl": "https://beta-downloads.serif.com/download/samples/Fireworks.afphoto",
+                            "previewUrl": "https://beta-downloads.serif.com/download/samples/Fireworks.jpg",
+                            "previewColour": "#465297"
+                        },
+                        {
+                            "name": "Rain In The Tropics",
+                            "description": "Elena Paraskeva",
+                            "size": "61.3 MB",
+                            "contentUrl": "https://beta-downloads.serif.com/download/samples/Rain.afphoto",
+                            "previewUrl": "https://beta-downloads.serif.com/download/samples/Rain.jpg",
+                            "previewColour": "#215C80"
+                        },
+                        {
+                            "name": "Sea Kingdom",
+                            "description": "Iannocent",
+                            "size": "64.4 MB",
+                            "contentUrl": "https://beta-downloads.serif.com/download/samples/SeaKingdom.afphoto",
+                            "previewUrl": "https://beta-downloads.serif.com/download/samples/SeaKingdom.jpg",
+                            "previewColour": "#6F55A2"
+                        },
+                        {
+                            "name": "Spark Drink",
+                            "description": "Frankentoon",
+                            "size": "165.6 MB",
+                            "contentUrl": "https://beta-downloads.serif.com/download/samples/SparkDrink.afphoto",
+                            "previewUrl": "https://beta-downloads.serif.com/download/samples/SparkDrink.jpg",
+                            "previewColour": "#6168A8"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

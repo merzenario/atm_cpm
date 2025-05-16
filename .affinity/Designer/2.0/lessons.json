@@ -1,0 +1,146 @@
+{
+    "categories":
+    [
+        {
+            "name": "Using Affinity for the first time",
+            "previewUrl": "samples",
+            "previewColour": "#888888",
+            "items":
+            [
+                {
+                    "name": "Items",
+                    "items":
+                    [
+                        {
+                            "name": "Learn the basics behind this beautiful Camilla Falsini illustration.",
+                            "description": "",
+                            "size": "31.5 MB",
+                            "contentUrl": "https://beta-downloads.serif.com/download/samples/lessons/New-Horizon.afdesign",
+                            "previewUrl": "https://beta-downloads.serif.com/download/samples/lessons/New-Horizon_ios.jpeg",
+                            "previewColour": "#988787"
+                        },
+                        {
+                            "name": "Learn the basics behind this magical Frankentoon illustration.",
+                            "description": "",
+                            "size": "74.1 MB",
+                            "contentUrl": "https://beta-downloads.serif.com/download/samples/lessons/Plushies-Summoner.afdesign",
+                            "previewUrl": "https://beta-downloads.serif.com/download/samples/lessons/Plushies-Summoner_ios.jpeg",
+                            "previewColour": "#A4919B"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Check out what's possible by exploring featured artwork",
+            "previewUrl": "samples",
+            "previewColour": "#4C221A",
+            "items":
+            [
+                {
+                    "name": "Items",
+                    "items":
+                    [
+                        
+                        {
+                            "name": "What are you waiting for?",
+                            "description": "Mario De Meyer",
+                            "size": "9.1 MB",
+                            "contentUrl": "https://go.seriflabs.com/sample-what-are-you-waiting-for-by-mario-de-meyer",
+                            "previewUrl": "https://go.seriflabs.com/sample-what-are-you-waiting-for-by-mario-de-meyer-jpg",
+                            "previewColour": "#4B515D"
+                        },
+                        
+                        {
+                            "name": "Thundercat",
+                            "description": "Ellsphee",
+                            "size": "38.6 MB",
+                            "contentUrl": "https://go.seriflabs.com/sample-thundercat-by-ellsphee",
+                            "previewUrl": "https://go.seriflabs.com/sample-thundercat-by-ellsphee-jpg",
+                            "previewColour": "#BE8182"
+                        },
+                        
+                        {
+                            "name": "Hreint Watn Label",
+                            "description": "Anton Burmistrov",
+                            "size": "1 MB",
+                            "contentUrl": "https://go.seriflabs.com/sample-hreint-watn-label-by-anton-burmistrov",
+                            "previewUrl": "https://go.seriflabs.com/sample-hreint-watn-label-by-anton-burmistrov-jpg",
+                            "previewColour": "#AA768D"
+                        },
+                        
+                        {
+                            "name": "Vintage Car",
+                            "description": "Marc Keeley",
+                            "size": "33.3 MB",
+                            "contentUrl": "https://go.seriflabs.com/sample-vintage-car-by-marc-keeley",
+                            "previewUrl": "https://go.seriflabs.com/sample-vintage-car-by-marc-keeley-jpg",
+                            "previewColour": "#76AECF"
+                        },
+                        {
+                            "name": "Plushies Summoner",
+                            "description": "Frankentoon",
+                            "size": "350.1 MB",
+                            "contentUrl": "https://go.seriflabs.com/sample-plushies-summoner-by-frankentoon",
+                            "previewUrl": "https://go.seriflabs.com/sample-plushies-summoner-by-frankentoon-jpg",
+                            "previewColour": "#BD85B9"
+                        },
+                        
+                        {
+                            "name": "Shihatsu Densha",
+                            "description": "Robert Herzig",
+                            "size": "20.3 MB",
+                            "contentUrl": "https://go.seriflabs.com/sample-shihatsu-densha-by-robert-herzig",
+                            "previewUrl": "https://go.seriflabs.com/sample-shihatsu-densha-by-robert-herzig-jpg",
+                            "previewColour": "#BDBAB5"
+                        },
+                        
+                        {
+                            "name": "Miami",
+                            "description": "Giordano Poloni",
+                            "size": "26.7 MB",
+                            "contentUrl": "https://go.seriflabs.com/sample-miami-by-giordano-poloni",
+                            "previewUrl": "https://go.seriflabs.com/sample-miami-by-giordano-poloni-jpg",
+                            "previewColour": "#F5D4DB"
+                        },
+                        
+                        {
+                            "name": "Vision",
+                            "description": "Nastka Drabot",
+                            "size": "51 KB",
+                            "contentUrl": "https://go.seriflabs.com/sample-vision-by-nastka-drabot",
+                            "previewUrl": "https://go.seriflabs.com/sample-vision-by-nastka-drabot-jpg",
+                            "previewColour": "#FEECA1"
+                        },
+                        {
+                            "name": "Twisted",
+                            "description": "Matt Searston",
+                            "size": "125 KB",
+                            "contentUrl": "https://beta-downloads.serif.com/download/samples/Twisted.afpackage.zip",
+                            "previewUrl": "https://beta-downloads.serif.com/download/samples/twisted-by-matt-searston_ipad.jpg",
+                            "previewColour": "#390795"
+                        },
+                        
+                        {
+                            "name": "Nina Hayes Advert",
+                            "description": "James Bates",
+                            "size": "137 KB",
+                            "contentUrl": "https://go.seriflabs.com/sample-nina-hayes-advert-by-james-bates",
+                            "previewUrl": "https://go.seriflabs.com/sample-nina-hayes-advert-by-james-bates-jpg",
+                            "previewColour": "#E1FF01"
+                        },
+                        
+                        {
+                            "name": "Basketball - Mohawks",
+                            "description": "Basketball - Mohawks",
+                            "size": "44.2 MB",
+                            "contentUrl": "https://beta-downloads.serif.com/download/samples/BasketballMohawks.afpackage.zip",
+                            "previewUrl": "https://beta-downloads.serif.com/download/samples/basketball-mohawks-by-ian-upcott_ipad.jpg",
+                            "previewColour": "#9764B1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

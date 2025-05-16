@@ -1,0 +1,6 @@
+[user]
+	name = merzenario
+	email = estebanmolina159@gmail.com
+[core]
+	editor = code --wait
+	autocrlf = true

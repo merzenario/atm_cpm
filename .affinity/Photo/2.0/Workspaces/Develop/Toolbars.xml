@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workspace UID="Develop">
+	<Toolbars Version="2">
+		<Item>WorkspaceGroup</Item>
+		<Item>Space</Item>
+		<Item>RawReadout</Item>
+		<Item>FlexibleSpace</Item>
+		<Item>SplitViewModeGroup</Item>
+		<Item>FlexibleSpace</Item>
+		<Item>SplitViewSyncGroup</Item>
+		<Item>FlexibleSpace</Item>
+		<Item>DevelopRotationGroup</Item>
+		<Item>FlexibleSpace</Item>
+		<Item>ShowDevelopAssistantOptions</Item>
+		<Item>FlexibleSpace</Item>
+		<Item>Snapping</Item>
+		<Item>FlexibleSpace</Item>
+		<Item>ClippedGroup</Item>
+		<Item>FlexibleSpace</Item>
+		<Item>UserStatus</Item>
+	</Toolbars>
+</Workspace>

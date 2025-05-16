@@ -1,0 +1,68 @@
+[2025-04-24T03:16:23.286-0500] Affinity Photo 2
+[2025-04-24T03:16:23.289-0500] IsSandboxed: Yes
+[2025-04-24T03:16:23.289-0500] AppDataPathForCurrentUser: C:\Users\Esteb\.affinity\Photo\2.0
+[2025-04-24T03:16:23.289-0500] AppDataPathForCurrentUserPersisted: C:\Users\Esteb\.affinity\Photo\2.0
+[2025-04-24T03:16:23.290-0500] AppDataPathForAllUsers: C:\ProgramData\Affinity\Photo\2.0 (Store)
+[2025-04-24T03:16:23.291-0500] CommonDataPathForCurrentUser: C:\Users\Esteb\AppData\Local\Publishers\844sdzfcmm7k0\Affinity\Common\2.0 (Store)
+[2025-04-24T03:16:23.291-0500] CommonDataPathForCurrentUserPersisted: C:\Users\Esteb\.affinity\Common\2.0
+[2025-04-24T03:16:23.292-0500] CommonDataPathForCurrentUserPersistedBuildInvariant: C:\Users\Esteb\.affinity\Common\2.0
+[2025-04-24T03:16:23.293-0500] CommonDataPathForAllUsers: C:\ProgramData\Affinity\Common\2.0 (Store)
+[2025-04-24T03:16:23.294-0500] TempPathForCurrentUser: C:\Users\Esteb\.affinity\Photo\2.0\temp
+[2025-04-24T03:16:24.401-0500] Looking for WebView2 installation
+[2025-04-24T03:16:24.405-0500] 	Found WebView2 version 135.0.3179.85
+[DXCore] Found 2 adapters
+AMD Radeon (TM) Graphics
+	Version: 31.0.21914.8004
+	IsHardware: Yes
+	Supports D3D12 Feature Level 12.0: Yes
+	HardwareID: PCI\VEN_1002&DEV_15E7&SUBSYS_8B30103C0000&REV_C4
+	LUID: 0x16C80
+Microsoft Basic Render Driver
+	Version: 10.0.26100.3624
+	IsHardware: No
+	Supports D3D12 Feature Level 12.0: Yes
+	HardwareID: PCI\VEN_1414&DEV_008C&SUBSYS_00000000&REV_00
+	LUID: 0x179BE
+[DXGI] Enumerating adapters
+AMD Radeon (TM) Graphics
+	HardwareID: PCI\VEN_1002&DEV_15E7&SUBSYS_8B30103C0000&REV_C4
+	LUID: 0x16C80
+Microsoft Basic Render Driver
+	HardwareID: PCI\VEN_1414&DEV_008C&SUBSYS_00000000&REV_00
+	LUID: 0x179BE
+[OpenCL] Found 1 platforms:
+Name: AMD Accelerated Parallel Processing
+	Vendor: Advanced Micro Devices, Inc.
+	Version: OpenCL 2.1 AMD-APP (3584.0)
+[OpenCL] Found 1 devices for platform AMD Accelerated Parallel Processing:
+AMD Radeon (TM) Graphics
+	Vendor: Advanced Micro Devices, Inc.
+	Version: OpenCL 2.0 AMD-APP (3584.0)
+	Integrated: true
+	Detachable: false
+[2025-04-24T03:16:26.813-0500] 	Installed
+[2025-04-24T03:16:27.627-0500] Querying add-on licences for Microsoft Store: 9MXX13XQDCW2, 9N4BKZV067BS
+[2025-04-24T03:16:27.639-0500]   Licence query found 0 licenced add-ons for current app
+[2025-04-24T03:16:27.665-0500] Querying add-on prices for Microsoft Store: 9MXX13XQDCW2, 9N4BKZV067BS
+[2025-04-24T03:16:29.265-0500]   Price query found 2 add-ons for current app
+[2025-04-24T03:16:29.265-0500]     Key: 9MXX13XQDCW2
+[2025-04-24T03:16:29.265-0500]     Title: Licencia universal de Affinity V2
+[2025-04-24T03:16:29.265-0500]     StoreId: 9MXX13XQDCW2
+[2025-04-24T03:16:29.265-0500]     ProductId: photo2.universal.licence
+[2025-04-24T03:16:29.265-0500]     Price: $ 249.900,00
+[2025-04-24T03:16:29.266-0500]     SKUs: 1
+[2025-04-24T03:16:29.266-0500]       Title: Licencia universal de Affinity V2
+[2025-04-24T03:16:29.266-0500]       StoreId: 9MXX13XQDCW2/0010
+[2025-04-24T03:16:29.266-0500]     QueryMatch: 9MXX13XQDCW2
+[2025-04-24T03:16:29.266-0500]     Key: 9N4BKZV067BS
+[2025-04-24T03:16:29.266-0500]     Title: Affinity Photo 2
+[2025-04-24T03:16:29.266-0500]     StoreId: 9N4BKZV067BS
+[2025-04-24T03:16:29.266-0500]     ProductId: photo2.licence
+[2025-04-24T03:16:29.266-0500]     Price: $ 106.900,00
+[2025-04-24T03:16:29.266-0500]     SKUs: 1
+[2025-04-24T03:16:29.266-0500]       Title: Affinity Photo 2
+[2025-04-24T03:16:29.266-0500]       StoreId: 9N4BKZV067BS/0010
+[2025-04-24T03:16:29.266-0500]     QueryMatch: 9N4BKZV067BS
+[2025-04-24T03:16:48.190-0500] Wintab: Failed to load Wintab32.dll
+[2025-04-24T03:16:48.190-0500] Wintab: Failed to create tablet context
+[2025-04-24T03:16:48.668-0500] Exit

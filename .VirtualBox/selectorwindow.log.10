@@ -1,0 +1,32 @@
+00:00:00.966425 VirtualBox GUI VM Selector Window 7.1.6 r167084 win.amd64 (Jan 21 2025 14:13:52) release log
+00:00:00.966428 Log opened 2025-03-31T18:54:01.913888000Z
+00:00:00.966428 Build Type: release
+00:00:00.966432 OS Product: Windows 11
+00:00:00.966433 OS Release: 10.0.26100
+00:00:00.966434 OS Service Pack: 
+00:00:01.008925 DMI Product Name: HP Laptop 15-fc0xxx
+00:00:01.016473 DMI Product Version:  
+00:00:01.016497 Firmware type: UEFI
+00:00:01.017213 Secure Boot: Enabled
+00:00:01.017222 Host RAM: 15711MB (15.3GB) total, 4167MB (4.0GB) available
+00:00:01.017230 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.017230 Process ID: 440
+00:00:01.017231 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.017231 Windows Features:
+00:00:01.017231   Core Isolation (Memory Integrity): ENABLED
+00:00:01.017446 Qt version: 6.5.3
+00:00:01.018323 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:01.055987 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.919682 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:33.108808 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:41.035363 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:30.420432 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:30.439826 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:34.600749 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:34.612878 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:34.996002 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:35.010668 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:38.703754 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:39.255280 GUI: UIMediumEnumerator: Medium-enumeration finished!
+71:50:22.944752 GUI: UICommon: Handling aboutToQuit request..
+71:50:22.946082 Log rotated - Log started 2025-03-31T18:54:01.913888000Z

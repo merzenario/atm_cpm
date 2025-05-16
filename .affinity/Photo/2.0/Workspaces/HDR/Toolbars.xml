@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workspace UID="HDR">
+	<Toolbars Version="2">
+		<Item>WorkspaceGroup</Item>
+		<Item>FlexibleSpace</Item>
+		<Item>SplitViewModeGroup</Item>
+		<Item>FlexibleSpace</Item>
+		<Item>UserStatus</Item>
+	</Toolbars>
+</Workspace>

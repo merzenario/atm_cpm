@@ -1,0 +1,68 @@
+[2025-04-24T03:15:54.657-0500] Affinity Designer 2
+[2025-04-24T03:15:54.660-0500] IsSandboxed: Yes
+[2025-04-24T03:15:54.660-0500] AppDataPathForCurrentUser: C:\Users\Esteb\.affinity\Designer\2.0
+[2025-04-24T03:15:54.660-0500] AppDataPathForCurrentUserPersisted: C:\Users\Esteb\.affinity\Designer\2.0
+[2025-04-24T03:15:54.662-0500] AppDataPathForAllUsers: C:\ProgramData\Affinity\Designer\2.0 (Store)
+[2025-04-24T03:15:54.663-0500] CommonDataPathForCurrentUser: C:\Users\Esteb\AppData\Local\Publishers\844sdzfcmm7k0\Affinity\Common\2.0 (Store)
+[2025-04-24T03:15:54.664-0500] CommonDataPathForCurrentUserPersisted: C:\Users\Esteb\.affinity\Common\2.0
+[2025-04-24T03:15:54.664-0500] CommonDataPathForCurrentUserPersistedBuildInvariant: C:\Users\Esteb\.affinity\Common\2.0
+[2025-04-24T03:15:54.666-0500] CommonDataPathForAllUsers: C:\ProgramData\Affinity\Common\2.0 (Store)
+[2025-04-24T03:15:54.667-0500] TempPathForCurrentUser: C:\Users\Esteb\.affinity\Designer\2.0\temp
+[2025-04-24T03:15:55.837-0500] Looking for WebView2 installation
+[2025-04-24T03:15:55.845-0500] 	Found WebView2 version 135.0.3179.85
+[DXCore] Found 2 adapters
+AMD Radeon (TM) Graphics
+	Version: 31.0.21914.8004
+	IsHardware: Yes
+	Supports D3D12 Feature Level 12.0: Yes
+	HardwareID: PCI\VEN_1002&DEV_15E7&SUBSYS_8B30103C0000&REV_C4
+	LUID: 0x16C80
+Microsoft Basic Render Driver
+	Version: 10.0.26100.3624
+	IsHardware: No
+	Supports D3D12 Feature Level 12.0: Yes
+	HardwareID: PCI\VEN_1414&DEV_008C&SUBSYS_00000000&REV_00
+	LUID: 0x179BE
+[DXGI] Enumerating adapters
+AMD Radeon (TM) Graphics
+	HardwareID: PCI\VEN_1002&DEV_15E7&SUBSYS_8B30103C0000&REV_C4
+	LUID: 0x16C80
+Microsoft Basic Render Driver
+	HardwareID: PCI\VEN_1414&DEV_008C&SUBSYS_00000000&REV_00
+	LUID: 0x179BE
+[OpenCL] Found 1 platforms:
+Name: AMD Accelerated Parallel Processing
+	Vendor: Advanced Micro Devices, Inc.
+	Version: OpenCL 2.1 AMD-APP (3584.0)
+[OpenCL] Found 1 devices for platform AMD Accelerated Parallel Processing:
+AMD Radeon (TM) Graphics
+	Vendor: Advanced Micro Devices, Inc.
+	Version: OpenCL 2.0 AMD-APP (3584.0)
+	Integrated: true
+	Detachable: false
+[2025-04-24T03:15:58.540-0500] 	Installed
+[2025-04-24T03:15:59.079-0500] Querying add-on licences for Microsoft Store: 9NVHM7WNH7F5, 9P1KTMVMSDJQ
+[2025-04-24T03:15:59.098-0500]   Licence query found 0 licenced add-ons for current app
+[2025-04-24T03:15:59.128-0500] Querying add-on prices for Microsoft Store: 9NVHM7WNH7F5, 9P1KTMVMSDJQ
+[2025-04-24T03:16:01.414-0500]   Price query found 2 add-ons for current app
+[2025-04-24T03:16:01.416-0500]     Key: 9NVHM7WNH7F5
+[2025-04-24T03:16:01.416-0500]     Title: Licencia universal de Affinity V2
+[2025-04-24T03:16:01.416-0500]     StoreId: 9NVHM7WNH7F5
+[2025-04-24T03:16:01.416-0500]     ProductId: designer2.universal.licence
+[2025-04-24T03:16:01.416-0500]     Price: $ 249.900,00
+[2025-04-24T03:16:01.416-0500]     SKUs: 1
+[2025-04-24T03:16:01.417-0500]       Title: Licencia universal de Affinity V2
+[2025-04-24T03:16:01.417-0500]       StoreId: 9NVHM7WNH7F5/0010
+[2025-04-24T03:16:01.417-0500]     QueryMatch: 9NVHM7WNH7F5
+[2025-04-24T03:16:01.417-0500]     Key: 9P1KTMVMSDJQ
+[2025-04-24T03:16:01.417-0500]     Title: Affinity Designer 2
+[2025-04-24T03:16:01.417-0500]     StoreId: 9P1KTMVMSDJQ
+[2025-04-24T03:16:01.417-0500]     ProductId: designer2.licence
+[2025-04-24T03:16:01.417-0500]     Price: $ 106.900,00
+[2025-04-24T03:16:01.417-0500]     SKUs: 1
+[2025-04-24T03:16:01.417-0500]       Title: Affinity Designer 2
+[2025-04-24T03:16:01.417-0500]       StoreId: 9P1KTMVMSDJQ/0010
+[2025-04-24T03:16:01.417-0500]     QueryMatch: 9P1KTMVMSDJQ
+[2025-04-24T03:16:14.997-0500] Wintab: Failed to load Wintab32.dll
+[2025-04-24T03:16:14.997-0500] Wintab: Failed to create tablet context
+[2025-04-24T03:16:15.461-0500] Exit

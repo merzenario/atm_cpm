@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="Serif.Affinity.Settings.WindowSettings">
+	<Display>0</Display>
+	<Location>
+		<X>64</X>
+		<Y>64</Y>
+	</Location>
+	<Size>
+		<Width>1152</Width>
+		<Height>640</Height>
+	</Size>
+	<State>Normal</State>
+	<Dialogs />
+</Settings>

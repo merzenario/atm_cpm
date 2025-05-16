@@ -1,0 +1,8 @@
+[2025-04-24T03:16:03.082-0500] Initialising IPC for Affinity Designer 2.6.2.3228
+[2025-04-24T03:16:03.109-0500] [Client] Starting IPC connection management
+[2025-04-24T03:16:03.112-0500] [Client] Attempting to start local server...
+[2025-04-24T03:16:03.119-0500] [Server] Started
+[2025-04-24T03:16:03.136-0500] [Client] Local server has started; attempting to connect to it...
+[2025-04-24T03:16:03.145-0500] [Server] Got new client 2 ("Affinity Designer 2.6.2.3228")
+[2025-04-24T03:16:03.145-0500] [Client] Connected to server
+[2025-04-24T03:16:15.253-0500] [Client] Stopping IPC connection management

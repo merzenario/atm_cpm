@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workspace UID="Export">
+	<Toolbars Version="2">
+		<Item>WorkspaceGroup</Item>
+		<Item>FlexibleSpace</Item>
+		<Item>SliceOrderGroup</Item>
+		<Item>Space</Item>
+		<Item>SliceAlignmentPopup</Item>
+		<Item>FlexibleSpace</Item>
+		<Item>UserStatus</Item>
+	</Toolbars>
+</Workspace>
