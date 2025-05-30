@@ -1,0 +1,185 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(246, 246, 246);
+    /*color letras*/
+    color: rgb(232, 232, 232);
+    margin: 150px;
+    padding: 100px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+h1,
+h2 {
+    color: rgb(0, 0, 0);
+    /* Titulo */
+    margin-inline: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* ventana */
+.admin-container {
+    background-color: rgb(115, 115, 115);
+    border: 5px solid rgba(134, 134, 134, 0.8);
+    border-radius: 80px;
+    padding: 100px;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(22, 38, 130, 0.3);
+    margin-bottom: 30px;
+}
+
+/* opciones menu*/
+.admin-menu {
+    list-style: none;
+    padding: 0;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 2fr;
+    gap: 25px;
+}
+
+.admin-menu {
+    margin: 5px;
+}
+
+/* opcion crear cliente */
+.admin-customer {
+    background-color: rgb(35, 28, 242);
+    border: 5px solid rgba(32, 32, 249, 0.8);
+    border-radius: 100px;
+    padding: 10px;
+    width: 100%;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.3);
+    margin-bottom: 30px;
+}
+
+/* opcion crear cuenta */
+.admin-account {
+    background-color: rgb(35, 28, 242);
+    border: 5px solid rgba(32, 32, 249, 0.8);
+    border-radius: 100px;
+    padding: 10px;
+    width: 100%;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.3);
+    margin-bottom: 30px;
+}
+
+/* opcion desbloquear */
+.admin-unblock {
+    background-color: rgb(35, 28, 242);
+    border: 5px solid rgba(32, 32, 249, 0.8);
+    border-radius: 100px;
+    padding: 10px;
+    width: 100%;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.3);
+    margin-bottom: 30px;
+}
+
+/*alinea nombres de opciones*/
+li {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* nombres de los campos*/
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+input[type="text"],
+input[type="password"],
+input[type="number"],
+select {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    background-color: rgb(35, 28, 242);
+    font-size: 20px;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+}
+
+button[type="submit"],
+.admin-btn {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: 5px;
+    padding: 12px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: background-color 03s;
+    width: 100%;
+    margin-top: 20px;
+}
+
+button[type="submit"]:hover,
+.admin-btn:hover {
+    background-color: rgb(35, 28, 242);
+}
+
+.back-btn {
+    background-color: transparent;
+    color: #000000;
+    border: 2px solid #000000;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    transition: all 0.3s;
+    display: inline-block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.back-btn:hover {
+    background-color: #00ccff;
+    color: #003366;
+}
+
+/* Estilos para mensajes */
+.message {
+    padding: 10px;
+    border-radius: 5px;
+    margin: 15px 0;
+    text-align: center;
+    font-weight: bold;
+}
+
+.success {
+    background-color: rgba(0, 255, 0, 0.1);
+    color: #00ddff;
+    border: 1px solid #00ddff;
+}
+
+.error {
+    background-color: rgba(255, 0, 0, 0.1);
+    color: #ff0000;
+    border: 1px solid #ff0000;
+}
+
+/* Estilos específicos para select */
+select {
+    appearance: none;
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23003366'%3e%3cpath d='M7 10l5 5 5-5z'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 20px;
+}

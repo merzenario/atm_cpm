@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🫷Admin🫸</title>
+    <link rel="stylesheet" href="/src/main/resources/static/styles/admin.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+        integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMt23cez/3paNdF+e4z5l5a5b5d5b5d5b5d5b5" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="admin-container">
+        <h1>Admin 👨‍🔧 ATMCPM</h1>
+        <h2><i class="fas fa-user-shield"></i>Menu admin</h2>
+
+        <ul class="admin-menu">
+            <div class="admin-customer">
+                <li>
+                    <a th:href="@{admin/create-customer}"></a>
+                    <i class="fas fa-user-plus"></i>
+                    Crear Cliente
+                </li>
+            </div>
+            <div class="admin-account">
+                <li>
+                    <a th:href="@{admin/create-account}"></a>
+                    <i class="fas fa-credit-card"></i>
+                    Crear Cuenta
+                </li>
+            </div>
+            <div class="admin-unblock">
+                <li>
+                    <a th:href="@{admin/unblock}"></a>
+                    <i class="fas fa-lock-open"></i>
+                    Desbloquear Cliente
+                </li>
+            </div>
+        </ul>
+    </div>
+</body>
+
+</html>
